@@ -39,9 +39,9 @@ You can explore more of my projects by visiting the [repositories section](https
 
 ## 📈 GitHub Stats
 
-![Hrishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HrishabhMittal&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Hrishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HrishabhMittal&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=nord)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HrishabhMittal&langs_count=5&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HrishabhMittal&langs_count=5&theme=nord)
 
 ## 🛠️ Tools and Frameworks I Use
 
