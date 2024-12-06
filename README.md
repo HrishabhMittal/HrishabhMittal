@@ -5,7 +5,7 @@ Welcome to my GitHub profile! There's nothing too crazy here, but you can still 
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Operating System projects** and **Quantum Computing** experiments.
-- 🌱 I’m learning more about **Cybersecurity** and **Advanced Operating Systems**.
+- 🌱 I’m learning more about **Cybersecurity** and **Operating Systems**.
 - 👨‍💻 Programming languages I enjoy:
     - **C** (my favorite)
     - **Python**
