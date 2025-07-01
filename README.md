@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! There's nothing too crazy here, but you can still check out some stuff that I make.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabhmittal&layout=compact&hide=jupyter%20notebook,css)
+
 ## 🧑‍💻 About Me
 
 - 🔭 I like to make random cool stuff I see on the internet.
