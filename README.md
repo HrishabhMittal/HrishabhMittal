@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! There's nothing too crazy here, but you can still check out some stuff that I make.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabhmittal&layout=compact&hide=jupyter%20notebook,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabhmittal&layout=compact&hide=jupyter%20notebook,css&theme=dark)
 
 ## 🧑‍💻 About Me
 
