@@ -3,7 +3,7 @@
     <h2>C++ nerd | Gopher | Bash script enjoyer | Arch btw</h2>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabhmittal&layout=compact&hide=jupyter%20notebook,css&theme=dark" alt="Top Langs" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=hrishabhmittal&layout=compact&hide=jupyter%20notebook,css&theme=dark" alt="Top Langs" />
 </div>
 
 
